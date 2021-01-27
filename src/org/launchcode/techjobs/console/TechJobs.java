@@ -112,8 +112,6 @@ public class TechJobs {
     // Print a list of jobs
     private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
 
-
-
         //someJobs = JobData.findAll();
 
         if(someJobs.size() > 0){
